@@ -1,0 +1,57 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="stocktonchapala.com" resolutions="1x" timestamp="1520452894820">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="breakfast.css" crc="468645098" ref="breakfast"/>
+    <file name="index.css" crc="3980234161" ref="index"/>
+    <file name="sides-and-extras.css" crc="3771895627" ref="sides-and-extras"/>
+    <file name="about-us.css" crc="3984112987" ref="about-us"/>
+    <file name="meat-options.css" crc="3982436022" ref="meat-options"/>
+    <file name="lunch-and-dinner.css" crc="496272712" ref="lunch-and-dinner"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+    <file name="museutils.js" crc="3851988764" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+    <file name="whatinput.js" crc="86476730" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+    <file name="museconfig.js" crc="4242129463" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+    <file name="require.js" crc="4108833657" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+  </folder>
+  <folder name="images">
+    <file name="sitemgr_photo_5913-crop-u104.jpg" crc="422904259" ref="index"/>
+    <file name="u127-4.png" crc="319787648" ref="index"/>
+    <file name="famous-american-foods-24-wide-wallpaper.jpg" crc="4169502045" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="gallery-1452106261-photo-dec-28-9-23-44-pm.jpg" crc="316915656" seo="true" ref="index"/>
+    <file name="img_0385.jpg" crc="4137382386" seo="true" ref="index"/>
+    <file name="mexican-buffet-mexican-bar.jpg" crc="3828755614" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="sitemgr_photo_5913-crop-u1701.jpg" crc="422904259" ref="breakfast"/>
+    <file name="u1704-4.png" crc="319787648" ref="breakfast"/>
+    <file name="u2452-41.png" crc="192041406" ref="breakfast"/>
+    <file name="sitemgr_photo_5913-crop-u1811.jpg" crc="422904259" ref="lunch-and-dinner"/>
+    <file name="u1792-4.png" crc="319787648" ref="lunch-and-dinner"/>
+    <file name="u2458-51.png" crc="3780562150" ref="lunch-and-dinner"/>
+    <file name="sitemgr_photo_5913-crop-u1945.jpg" crc="422904259" ref="sides-and-extras"/>
+    <file name="u1944-4.png" crc="319787648" ref="sides-and-extras"/>
+    <file name="u2467-63.png" crc="89750972" ref="sides-and-extras"/>
+    <file name="sitemgr_photo_5913-crop-u2316.jpg" crc="422904259" ref="about-us"/>
+    <file name="u2276-4.png" crc="319787648" ref="about-us"/>
+    <file name="sitemgr_photo_5913-crop-u3486.jpg" crc="422904259" ref="meat-options"/>
+    <file name="u3527-4.png" crc="319787648" ref="meat-options"/>
+    <file name="u3490-32.png" crc="3853529218" ref="meat-options"/>
+    <file name="pasted image 339x40.jpg" crc="4102186330" seo="true" ref="index:breakfast:lunch-and-dinner:sides-and-extras:about-us:meat-options"/>
+    <file name="u3926-8.png" crc="4238123911" ref="about-us"/>
+  </folder>
+  <file name="index.html" crc="491446810" seo="true" mt="1520448957008" redirect="true"/>
+  <file name="breakfast.html" crc="150867167" seo="true" mt="1520449907787" redirect="true"/>
+  <file name="lunch-and-dinner.html" crc="4173980911" seo="true" mt="1520449958464" redirect="true"/>
+  <file name="sides-and-extras.html" crc="3818721732" seo="true" mt="1520449975080" redirect="true"/>
+  <file name="about-us.html" crc="3857440309" seo="true" mt="1520451127146" redirect="true"/>
+  <file name="meat-options.html" crc="84099111" seo="true" mt="1520449936497" redirect="true"/>
+</manifest>
